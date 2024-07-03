@@ -43,6 +43,6 @@
   
 ## Linguagem utilizada
 
-* Python
+* R
 
 
