@@ -17,7 +17,7 @@
       - **Eficiência no Tratamento:** Com a capacidade de identificar casos de alto risco, o modelo permite que os profissionais de saúde priorizem e direcionem recursos de maneira mais eficaz, promovendo uma gestão mais eficiente e focada na prevenção e tratamento do câncer de pulmão.    
 
 ## Conclusões sobre o Modelo Preditivo:    
-- Foram desenvolvidos cinco modelos de machine learning para a previsão de câncer de pulmão. Os resultados foram:
+- Foram desenvolvidos cinco modelos de machine learning para a previsão de câncer de pulmão. Os resultados foram:  
       - **Regressão Logística:** Sem levar em conta o desbalanceamento das classes, atingiu um recall de 0.61 nos dados de treino.    
       - **Random Forest:** Sem tratar o desbalanceamento das classes, alcançou um recall de 0.58. Com o método de case weights, resultou em um recall de 0.78.  
       - **K-Nearest Neighbors (KNN):** Utilizou técnicas de oversampling, com SMOTE obtendo um recall de 0.85 e ADASYN alcançando um recall de 0.90 nos dados de treino e teste.  
