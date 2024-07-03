@@ -31,3 +31,18 @@
 - Com a API criada, o arquivo Docker gerado pela Vetiver pode ser hospedado no serviço ECS (Elastic Container Service) da AWS, permitindo que o modelo seja acessível de maneira escalável pela internet. Esse processo de deploy na nuvem garante que o modelo esteja disponível, possibilitando a realização de previsões e podendo ser integrado com outras aplicações e serviços.
 - Para demonstrar a criação e funcionamento do contêiner no AWS ECS e da aplicação, fiz um vídeo detalhando o processo. O serviço não ficará ativo para evitar custos futuros.
 - Para acessar o vídeo de demonstração clique [aqui](https://drive.google.com/drive/folders/1CjE35TrdnHBjZnJEEKLZ7MxsMdNOz_wU)
+
+## Ferramentas utilizadas
+
+* Jupyter Notebook
+* Docker
+  
+## Cloud
+
+* AWS
+  
+## Linguagem utilizada
+
+* Python
+
+
